@@ -18,7 +18,7 @@ html {
 .main_title {
    font-size: 64px;
    font-weight: 700;
-   margin-bottom: 40px;
+   margin-bottom: 60px;
 }
 
 a {
@@ -64,11 +64,11 @@ body {
    column-gap: 40px;
 }
 
-.logo {}
 
-.logo_img {}
 
-.nav_menu {}
+
+
+
 
 .menu {
    display: flex;
@@ -86,7 +86,7 @@ body {
    color: #fff;
 }
 
-.list_item_menu {}
+
 
 .header_content_images {
    text-align: center;
@@ -172,14 +172,14 @@ body {
    display: inline-block;
 }
 
-.main {}
+
 
 .btns {
    padding: 45px 0 180px;
    text-align: center;
 }
 
-.container {}
+
 
 .Choose_your_colour {
    font-size: 36px;
@@ -211,7 +211,7 @@ body {
 }
 
 
-.img_btn {}
+
 
 /*-----------------------------------*/
 
@@ -335,4 +335,5 @@ body {
    justify-content: center;
    align-items: center;
    column-gap: 20px;
+
 }
